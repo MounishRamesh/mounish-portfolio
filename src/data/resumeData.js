@@ -24,14 +24,11 @@ export const profile = {
 
 export const about = {
   objective:
-    "Currently completing a B.Tech in Artificial Intelligence and Data Science, I'm looking to grow as a full-stack engineer who can move fluidly between designing resilient Spring Boot backends and shipping clean, responsive React interfaces — while bringing an AI/ML lens to the problems I solve.",
+    "B.Tech graduate in Artificial Intelligence and Data Science focused on full-stack software development. I enjoy building resilient Spring Boot backends, responsive React interfaces, REST APIs, and practical AI/ML solutions.",
   interests: [
     'Competitive Programming',
-<<<<<<< HEAD
     'System Design',
-=======
     'Software Development',
->>>>>>> fbb7fd80c5830bc3c7adfe9e5d2a832ab5353ac6
     'Machine Learning',
     'Open Source & Git Workflows',
     'Hackathons',
@@ -44,11 +41,7 @@ export const about = {
     'Project Management',
     'Adaptability',
   ],
-<<<<<<< HEAD
-  favoriteTech: ['Java', 'Spring Boot', 'React', 'Python', 'PostgreSQL'],
-=======
   favoriteTech: ['Java', 'Spring Boot', 'React', 'Python', 'Mysql','PostgreSQL'],
->>>>>>> fbb7fd80c5830bc3c7adfe9e5d2a832ab5353ac6
 }
 
 export const skills = [
@@ -165,11 +158,7 @@ export const projects = [
     ],
     tech: ['Java', 'Spring Boot', 'SQL', 'REST APIs'],
     role: 'Backend Developer',
-<<<<<<< HEAD
-    github: 'https://github.com/MounishRamesh/Hospital-Management-App',
-=======
     github: 'https://github.com/MounishRamesh/Hospital_Management_App',
->>>>>>> fbb7fd80c5830bc3c7adfe9e5d2a832ab5353ac6
     demo: null,
   },
   {
@@ -184,11 +173,7 @@ export const projects = [
     tech: ['Node.js (Express.js)', 'Python (Flask)', 'SQLite', 'MongoDB'],
     role: 'Backend Developer',
     github: 'https://github.com/MounishRamesh/URL-Shortener',
-<<<<<<< HEAD
     demo: 'https://url-shortener-msqq.onrender.com/',
-=======
-    demo: null,
->>>>>>> fbb7fd80c5830bc3c7adfe9e5d2a832ab5353ac6
   },
   {
     name: 'Predictive Analysis System',
@@ -202,11 +187,8 @@ export const projects = [
     tech: ['Python', 'Machine Learning', 'HTML', 'CSS', 'JavaScript'],
     role: 'ML Developer',
     github: 'https://github.com/MounishRamesh/Predictive-Analysis-System',
-<<<<<<< HEAD
     demo: 'https://predictive-analysis-system.onrender.com/',
-=======
-    demo: null,
->>>>>>> fbb7fd80c5830bc3c7adfe9e5d2a832ab5353ac6
+  
   },
 ]
 
