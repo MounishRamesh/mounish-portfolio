@@ -24,11 +24,10 @@ export const profile = {
 
 export const about = {
   objective:
-    "B.Tech graduate in Artificial Intelligence and Data Science focused on full-stack software development. I enjoy building resilient Spring Boot backends, responsive React interfaces, REST APIs, and practical AI/ML solutions.",
+    "Currently completing a B.Tech in Artificial Intelligence and Data Science, I'm looking to grow as a full-stack engineer who can move fluidly between designing resilient Spring Boot backends and shipping clean, responsive React interfaces — while bringing an AI/ML lens to the problems I solve.",
   interests: [
     'Competitive Programming',
     'System Design',
-    'Software Development',
     'Machine Learning',
     'Open Source & Git Workflows',
     'Hackathons',
@@ -41,7 +40,7 @@ export const about = {
     'Project Management',
     'Adaptability',
   ],
-  favoriteTech: ['Java', 'Spring Boot', 'React', 'Python', 'Mysql','PostgreSQL'],
+  favoriteTech: ['Java', 'Spring Boot', 'React', 'Python', 'PostgreSQL'],
 }
 
 export const skills = [
@@ -158,7 +157,7 @@ export const projects = [
     ],
     tech: ['Java', 'Spring Boot', 'SQL', 'REST APIs'],
     role: 'Backend Developer',
-    github: 'https://github.com/MounishRamesh/Hospital_Management_App',
+    github: 'https://github.com/MounishRamesh/Hospital-Management-App',
     demo: null,
   },
   {
@@ -173,7 +172,7 @@ export const projects = [
     tech: ['Node.js (Express.js)', 'Python (Flask)', 'SQLite', 'MongoDB'],
     role: 'Backend Developer',
     github: 'https://github.com/MounishRamesh/URL-Shortener',
-    demo: 'https://url-shortener-msqq.onrender.com/',
+    demo: null,
   },
   {
     name: 'Predictive Analysis System',
@@ -187,8 +186,7 @@ export const projects = [
     tech: ['Python', 'Machine Learning', 'HTML', 'CSS', 'JavaScript'],
     role: 'ML Developer',
     github: 'https://github.com/MounishRamesh/Predictive-Analysis-System',
-    demo: 'https://predictive-analysis-system.onrender.com/',
-  
+    demo: null,
   },
 ]
 
